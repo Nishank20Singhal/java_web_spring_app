@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: template-java-spring-hibernate
+Bundle-SymbolicName: template-java-spring-hibernate
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: template.java.spring.hibernate
+Export-Package: src.main.java.com.example.controller,
+ src.main.java.com.example.model,
+ src.main.java.com.example.service,
+ src.main.resources,
+ src.main.webapp,
+ target
